@@ -9,12 +9,9 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Circuit made with 4 inputs and 7 outputs, and it shows the binary code tested on a screen
 
 ## How to test
 
-Explain how to use your project
+You can show a letter or natural number if you know its respective binary code
 
-## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any

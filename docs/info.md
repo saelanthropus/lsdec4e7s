@@ -15,3 +15,7 @@ Circuit made with 4 inputs and 7 outputs, and it shows the binary code tested on
 
 You can show a letter or natural number if you know its respective binary code
 
+## External hardware
+
+It dont need to use any external hardware
+
